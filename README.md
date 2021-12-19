@@ -3,3 +3,6 @@
 This focuses on climate change for year 2021
 Credits: 
 RohanGattu
+Tools used:
+  Python
+  Pandas
